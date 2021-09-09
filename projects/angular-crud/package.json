@@ -1,11 +1,11 @@
 {
-  "name": "@biliboobrian/angular-crud",
-  "author": "Pierre Hanauer <pierre.hanauer@its4u.lu>",
+  "name": "@its4u/angular-crud",
+  "author": "ITs4U <contact@its4u.com>",
   "version": "11.0.2",
   "description": "Angular Crud services and models for Angular using PHP",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/biliboobrian/angular-crud.git"
+    "url": "git+ssh://git@github.com/its4u/angular-crud.git"
   },
   "peerDependencies": {
     "@angular/common": "11.x.x",
